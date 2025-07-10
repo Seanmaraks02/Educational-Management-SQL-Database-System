@@ -12,7 +12,7 @@ This project implements a comprehensive database system using Oracle SQL to mana
 
 # Class Diagram
 This UML class diagram illustrates the object-oriented structure of the database, including classes like `User`, `Admin`, `Instructor`, `Student`, `Course`, `Module`, `Assignment`, `Quiz`, `Project`, `Enrollment`, and `Submission`. It highlights attributes (e.g., `deadline`, `score`, `enrollmentYear`, `status`) and methods (e.g., `create`, `submit`, `validate`, `track`).
-![UML Class Diagram](images/UML class ADT.png)
+![UML Class Diagram](images/UML.png)
 
 # Usage
 - Execute the SQL script (`sql/educational_db.sql`) in an Oracle SQL environment to create and populate the database.
